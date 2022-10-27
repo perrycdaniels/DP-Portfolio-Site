@@ -6,14 +6,10 @@ const About = () => {
         <section className='about'>
             <h2>About Me</h2>
             <p>
-                Lorem ipsum dolor sit amet consectetur,
-                adipisicing elit. Neque, pariatur odio.
-                Maxime, labore nihil illo ea voluptate suscipit aliquid animi
-                possimus laudantium fugit obcaecati harum?
-                Assumenda maiores nam magnam animi? Lorem ipsum dolor sit amet consectetur
-                adipisicing elit. Eaque voluptatibus vitae, rem corrupti id consectetur!
-                Sapiente laboriosam nam excepturi exercitationem natus unde, harum
-                consequatur vero amet consectetur quod sunt autem!
+                I am a passionate BLOCKCHAIN DEVELOPER from the USA with 
+                a lot of enthusiasm and keen interest in blockchain and 
+                the web3 industry; looking forward to learn somthing new
+                every day and contribute to the industry! 
             </p>
         </section>
     );
